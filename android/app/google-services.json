@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "384812486648",
+    "project_id": "pet-match-b347c",
+    "storage_bucket": "pet-match-b347c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384812486648:android:279471a3f38a5133b1500d",
+        "android_client_info": {
+          "package_name": "com.example.pet_match"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384812486648-k0kghvco7e19eds1hrfcb7pht97l84fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pet_match",
+            "certificate_hash": "6ff3ae945b9d38ba4c7f52b0e4576015d956d2c9"
+          }
+        },
+        {
+          "client_id": "384812486648-opt2ar5b8vrjd57n643o1kooloht8s98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-UlAdQqrX1eAreF5DprZxXuJS-f9Z3aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384812486648-opt2ar5b8vrjd57n643o1kooloht8s98.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "384812486648-ln022beuhl5jahnkte88rqrdn1fqe7u6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.petMatchAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384812486648:android:a2f1bb3c28de125bb1500d",
+        "android_client_info": {
+          "package_name": "com.example.pet_match_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384812486648-dncnoe58283ccq3vj74kvqve1huikl83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pet_match_admin",
+            "certificate_hash": "6ff3ae945b9d38ba4c7f52b0e4576015d956d2c9"
+          }
+        },
+        {
+          "client_id": "384812486648-opt2ar5b8vrjd57n643o1kooloht8s98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-UlAdQqrX1eAreF5DprZxXuJS-f9Z3aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384812486648-opt2ar5b8vrjd57n643o1kooloht8s98.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "384812486648-ln022beuhl5jahnkte88rqrdn1fqe7u6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.petMatchAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+import 'package:shared_preferences/shared_preferences.dart';
+
+class SharedValues{
+  static SharedPreferences? preferences;
+
+  static Future initSharedPreferences() async {
+    preferences = await SharedPreferences.getInstance();
+  }
+
+  static Future<void> setNotificationValue(bool value) async => await preferences!.setBool('notification', value);
+  static bool getNotificationValue() => preferences!.getBool('notification')!;
+
+  static Future<void> setLocationValue(bool value) async => await preferences!.setBool('location', value);
+  static bool getLocationValue() => preferences!.getBool('location')!;
+}
